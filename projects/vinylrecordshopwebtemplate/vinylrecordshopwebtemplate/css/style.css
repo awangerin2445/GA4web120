@@ -390,3 +390,7 @@ p a:hover {
 	text-align: right;
 	width: 470px;
 }
+
+.youtubevideo {
+	justify-content: center;
+}
